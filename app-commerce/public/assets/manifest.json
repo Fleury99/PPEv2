@@ -1,8 +1,8 @@
 {
-  "assets/app.css": "/assets/app.d39a009d.css",
-  "assets/app.js": "/assets/app.b9a049fd.js",
-  "assets/runtime.js": "/assets/runtime.ec2b70cf.js",
-  "assets/30.36749e09.js": "/assets/30.36749e09.js",
+  "assets/app.css": "/assets/app.css",
+  "assets/app.js": "/assets/app.js",
+  "assets/runtime.js": "/assets/runtime.js",
+  "assets/vendors-node_modules_core-js_modules_es_array_concat_js-node_modules_core-js_modules_es_array-4c6327.js": "/assets/vendors-node_modules_core-js_modules_es_array_concat_js-node_modules_core-js_modules_es_array-4c6327.js",
   "assets/images/around-iconsdd9d.svg?den6mh": "/assets/images/around-iconsdd9d.479a25d2.svg",
   "assets/fonts/around-iconsdd9d.woff?den6mh": "/assets/fonts/around-iconsdd9d.6879f9fc.woff",
   "assets/fonts/around-iconsdd9d.ttf?den6mh": "/assets/fonts/around-iconsdd9d.0755bd29.ttf",

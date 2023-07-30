@@ -2,12 +2,12 @@
   "entrypoints": {
     "app": {
       "js": [
-        "/assets/runtime.ec2b70cf.js",
-        "/assets/30.36749e09.js",
-        "/assets/app.b9a049fd.js"
+        "/assets/runtime.js",
+        "/assets/vendors-node_modules_core-js_modules_es_array_concat_js-node_modules_core-js_modules_es_array-4c6327.js",
+        "/assets/app.js"
       ],
       "css": [
-        "/assets/app.d39a009d.css"
+        "/assets/app.css"
       ]
     }
   }
